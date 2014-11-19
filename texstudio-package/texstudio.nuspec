@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <metadata>
+    <id>texstudio</id>
+    <title>TeXstudio</title>
+    <version>2.8.6.20141119</version>
+    <authors>Benito van der Zander </authors>
+    <owners>Benjamin Häublein</owners>
+    <summary>TeXstudio is an integrated writing environment for creating LaTeX documents.</summary>
+    <description>TeXstudio is an integrated writing environment for creating LaTeX documents. Our goal is to make writing LaTeX as easy and comfortable as possible. Therefore TeXstudio has numerous features like syntax-highlighting, integrated viewer, reference checking and various assistants.
+
+Make sure to install MiKTeX before TeXstudio! I chose not add MiKTeX as dependency , because some people may use different distributions. </description>
+    <projectUrl>http://texstudio.sourceforge.net/</projectUrl>
+    <tags>tex latex texmaker texstudio miktex editor</tags>
+    <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <iconUrl>https://cdn.rawgit.com/BenjaminHae/choco-packages/2a7359ec61aaf9c0e8504aa4508aefc03c3219b2/texstudio.png</iconUrl>
+  </metadata>
+</package>
