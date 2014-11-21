@@ -9,7 +9,7 @@
     <summary>TeXstudio is an integrated writing environment for creating LaTeX documents.</summary>
     <description>TeXstudio is an integrated writing environment for creating LaTeX documents. Our goal is to make writing LaTeX as easy and comfortable as possible. Therefore TeXstudio has numerous features like syntax-highlighting, integrated viewer, reference checking and various assistants.
 
-Make sure to install MiKTeX before TeXstudio! I chose not add MiKTeX as dependency , because some people may use different distributions. </description>
+Make sure to install MiKTeX before TeXstudio! I chose not to add MiKTeX as dependency , because some people may use different distributions. </description>
     <projectUrl>http://texstudio.sourceforge.net/</projectUrl>
     <tags>tex latex texmaker texstudio miktex editor</tags>
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html</licenseUrl>
