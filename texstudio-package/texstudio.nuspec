@@ -3,7 +3,7 @@
   <metadata>
     <id>texstudio</id>
     <title>TeXstudio</title>
-    <version>2.9.4.20150816</version>
+    <version>2.10.0</version>
     <authors>Benito van der Zander </authors>
     <owners>Benjamin Häublein</owners>
     <summary>TeXstudio is an integrated writing environment for creating LaTeX documents.</summary>
