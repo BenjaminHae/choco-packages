@@ -15,5 +15,6 @@ If you want to use MiKTeX make sure to install it before TeXstudio! Unless you d
     <licenseUrl>http://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <iconUrl>https://cdn.rawgit.com/BenjaminHae/choco-packages/2a7359ec61aaf9c0e8504aa4508aefc03c3219b2/texstudio.png</iconUrl>
+    <packageSourceUrl>https://github.com/BenjaminHae/choco-packages</packageSourceUrl>
   </metadata>
 </package>
