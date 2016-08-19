@@ -1,6 +1,6 @@
 ﻿$packageName = 'TeXstudio'
 $installerType = 'EXE'
-$url = 'http://sourceforge.net/projects/texstudio/files/texstudio/TeXstudio%202.10.4/texstudio-2.10.4-win-qt5.5.1.exe/download'
+$url = 'https://sourceforge.net/projects/texstudio/files/texstudio/TeXstudio%202.10.4/texstudio-2.10.4-win-qt5.5.1.exe/download'
 $silentArgs = '/VERYSILENT'
 $validExitCodes = @(0)
 
